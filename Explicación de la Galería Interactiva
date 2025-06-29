@@ -1,0 +1,25 @@
+# Galería Interactiva
+
+Este proyecto es una galería de imágenes interactiva desarrollada con HTML, CSS y JavaScript. Permite al usuario:
+
+- Agregar imágenes mediante una URL.
+- Seleccionar una imagen con un clic (se resalta).
+- Eliminar la imagen seleccionada.
+
+## Funcionalidades
+
+- Manipulación dinámica del DOM
+- Eventos de clic, input y teclado
+- Diseño responsivo con Flex/Grid
+- Publicado en GitHub Pages
+
+## Demo
+
+🔗 [Ver en GitHub Pages](https://usuario.github.io/galeria-interactiva)
+
+## Cómo usar
+
+1. Clona el repositorio.
+2. Abre `index.html` en tu navegador.
+3. Ingresa la URL de una imagen.
+4. Agrega, selecciona o elimina imágenes como desees.
